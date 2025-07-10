@@ -4,27 +4,23 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
-    private enum State
-    {
+    private enum State {
         Roaming
     }
 
     private State state;
     private EnemyPathfinding enemyPathfinding;
 
-    private void Awake()
-    {
+    private void Awake() {
         enemyPathfinding = GetComponent<EnemyPathfinding>();
         state = State.Roaming;
     }
 
-    private void Start()
-    {
+    private void Start() {
         StartCoroutine(RoamingRoutine());
     }
 
-    private IEnumerator RoamingRoutine()
-    {
+    private IEnumerator RoamingRoutine() {
         while (state == State.Roaming)
         {
             Vector2 roamPosition = GetRoamingPosition();
@@ -33,8 +29,7 @@ public class EnemyAI : MonoBehaviour
         }
     }
 
-    private Vector2 GetRoamingPosition()
-    {
+    private Vector2 GetRoamingPosition() {
         return new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f)).normalized;
     }
 }

@@ -103,18 +103,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -298,13 +286,13 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Hero_Run_0: -1085258720
+      Hero_Run_6: -1448164567
       Hero_Run_1: 1804107574
       Hero_Run_2: 603665823
-      Hero_Run_3: -1431912594
-      Hero_Run_4: -1839783605
-      Hero_Run_5: 780575301
-      Hero_Run_6: -1448164567
       Hero_Run_7: -568829608
+      Hero_Run_3: -1431912594
+      Hero_Run_5: 780575301
+      Hero_Run_4: -1839783605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
