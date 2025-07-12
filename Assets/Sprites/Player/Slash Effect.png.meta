@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 15a9b9c21f03cd24fb3dd77fa03e82e3
+guid: 0b784017494f9c34f8944285d784993d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -103,18 +103,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -133,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a287668b1240032459f8bbb4ad4aed11
-      internalID: 972419920
+      spriteID: 0a26f78cd3baffe41a20e650128f6a61
+      internalID: 1894344537
       vertices: []
       indices: 
       edges: []
@@ -154,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03b3d9e3af8091e498453d90ce4144f5
-      internalID: 629372515
+      spriteID: 7a2f9118dad08294d9e5a11c2375ab02
+      internalID: -1749705387
       vertices: []
       indices: 
       edges: []
@@ -175,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8055445b7c6c4b1419271853455b7447
-      internalID: -1643850210
+      spriteID: e50158c0c46dee7479836735ce7060cc
+      internalID: -1834341379
       vertices: []
       indices: 
       edges: []
@@ -196,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9a0e814e08f1914d879f469f4df3e3d
-      internalID: 1553037825
+      spriteID: 69150f440cc04e444be9566aca2c6714
+      internalID: -1405048218
       vertices: []
       indices: 
       edges: []
@@ -217,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be55da5f8e639ec43bbfea9399cfe311
-      internalID: -1512326575
+      spriteID: f19c8ea6f59f05447aaa80129f120613
+      internalID: -719115194
       vertices: []
       indices: 
       edges: []
@@ -238,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b98b3410828a1614c9408aa49eb8a305
-      internalID: 1209599042
+      spriteID: 3528ababa83b3ce41a0c40b8120b4f6b
+      internalID: -1910874631
       vertices: []
       indices: 
       edges: []
@@ -259,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af4e496905b967849a43e66954a1da48
-      internalID: -78502030
+      spriteID: 4b45ed7139db48848842cc962f482f97
+      internalID: -1552190443
       vertices: []
       indices: 
       edges: []
@@ -280,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54825edd28d27f240be73eb9ab485969
-      internalID: 84740497
+      spriteID: 454123a1ff7d07d4db4be68e0a49012b
+      internalID: -1844937478
       vertices: []
       indices: 
       edges: []
@@ -301,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c31c8129ff38df64fb9a9497512e61a7
-      internalID: -1029564579
+      spriteID: 6b800f83a424d6541ae8b07b33ae3301
+      internalID: -558485966
       vertices: []
       indices: 
       edges: []
@@ -318,15 +306,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slash Effect_0: 972419920
-      Slash Effect_1: 629372515
-      Slash Effect_2: -1643850210
-      Slash Effect_3: 1553037825
-      Slash Effect_4: -1512326575
-      Slash Effect_5: 1209599042
-      Slash Effect_6: -78502030
-      Slash Effect_7: 84740497
-      Slash Effect_8: -1029564579
+      Slash Effect_5: -1910874631
+      Slash Effect_0: 1894344537
+      Slash Effect_6: -1552190443
+      Slash Effect_1: -1749705387
+      Slash Effect_7: -1844937478
+      Slash Effect_3: -1405048218
+      Slash Effect_2: -1834341379
+      Slash Effect_4: -719115194
+      Slash Effect_8: -558485966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
